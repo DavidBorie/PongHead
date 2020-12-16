@@ -1,6 +1,6 @@
 Jeu Pong avec skin
 
-https://davidborie.github.io/Pong_Game_Skin/
+https://davidborie.github.io/Pong_Game_Skin
 
 Pour jouer...
 
