@@ -1,10 +1,10 @@
-# Encore un pong
+Jeu Pong avec skin
 
-https://davidmarsprof.github.io/pong-wimbledon/
+https://davidborie.github.io/Pong_Game_Skin/
 
 Pour jouer...
 
-### Rafael
+### Cuphead
 touches A / Q 
-### Roger
+### Mugman
 touches P / M 
