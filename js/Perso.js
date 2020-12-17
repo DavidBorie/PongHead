@@ -9,7 +9,7 @@ class Perso extends ElementHtml{
             ,"..."
             ,"Elle est ou Ms. Chalice"
             ,"j'commence à avoir mal à force de bouger"
-            ,"King de, on se fait un poker?"
+            ,"King dice, on se fait un poker?"
             ,"J'ai une p'tite soif"
             ,"Nul germain!"
         ];
