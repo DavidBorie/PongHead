@@ -1,6 +1,6 @@
 .perso{
     position: relative;
-    --taille:10vmin;
+    --taille:20vmin;
     width: var(--taille);
     height: var(--taille);
     background-size: contain;
