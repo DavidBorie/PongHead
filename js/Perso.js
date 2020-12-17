@@ -4,7 +4,7 @@ class Perso extends ElementHtml{
         this.$bulle=$html.find(".bulle");
         this.mots=[
             "Votre cafetière de grand-père est plus fort que vous"
-            ,"Le 1er qui marque aura un contrat"
+            ,"Le 1er qui marque, aura un contrat"
             ,"Yallop!"
             ,"..."
             ,"Elle est ou Ms. Chalice"
